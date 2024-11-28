@@ -1,0 +1,7 @@
+/home/ma-user/work/SinhCustom/AclNNInvocation/build/CMakeFiles/execute_sinh_op.dir
+/home/ma-user/work/SinhCustom/AclNNInvocation/build/CMakeFiles/edit_cache.dir
+/home/ma-user/work/SinhCustom/AclNNInvocation/build/CMakeFiles/rebuild_cache.dir
+/home/ma-user/work/SinhCustom/AclNNInvocation/build/CMakeFiles/list_install_components.dir
+/home/ma-user/work/SinhCustom/AclNNInvocation/build/CMakeFiles/install.dir
+/home/ma-user/work/SinhCustom/AclNNInvocation/build/CMakeFiles/install/local.dir
+/home/ma-user/work/SinhCustom/AclNNInvocation/build/CMakeFiles/install/strip.dir
